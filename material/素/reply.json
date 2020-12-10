@@ -1,0 +1,41 @@
+[{
+  "type": "template",
+  "altText": "this is an image carousel template",
+  "template": {
+    "type": "image_carousel",
+    "columns": [
+      {
+        "imageUrl": "https://i.imgur.com/dPkSgIF.jpg",
+        "action": {
+          "type": "message",
+          "label": "高麗菜",
+          "text": "高麗菜"
+        }
+      },
+      {
+        "imageUrl": "https://i.imgur.com/f5aHeIG.jpg",
+        "action": {
+          "type": "message",
+          "label": "豆沙",
+          "text": "豆沙"
+        }
+      },
+      {
+        "imageUrl": "https://i.imgur.com/Fbhpt5s.jpg",
+        "action": {
+          "type": "message",
+          "label": "芋頭",
+          "text": "芋頭"
+        }
+      },
+      {
+        "imageUrl": "https://i.imgur.com/2jIt0oQ.jpg",
+        "action": {
+          "type": "message",
+          "label": "雪裡紅",
+          "text": "雪裡紅"
+        }
+      }
+    ]
+  }
+}]

@@ -1,0 +1,22 @@
+[{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "thumbnailImageUrl": "https://i.imgur.com/SbTbMOT.jpg",
+    "title": "菜單",
+    "text": "種類",
+    "actions": [
+      {
+        "type": "message",
+        "label": "饅頭",
+        "text": "饅頭"
+      },
+      {
+        "type": "message",
+        "label": "包子",
+        "text": "包子"
+      }
+    ]
+  }
+}]
